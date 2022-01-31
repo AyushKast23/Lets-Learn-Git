@@ -3,7 +3,7 @@ public class Multiply{
     Run|Debug
     public static void main(String[] args){
         int b = 12;
-        int a = 90;
+        int a = 500;
         System.out.println"The product is " + (a*b);
     }
 }
